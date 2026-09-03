@@ -17,11 +17,11 @@ The Application or its third-party SDKs may use cookies, SDKs, pixels, and simil
 
 **Your Rights**
 
-You may request access to, correction of, or deletion of your personal data held by the Service Provider. To exercise these rights, or to withdraw consent where processing is based on consent, contact the Service Provider at hello@increasinglabs.com.
+You may request access to, correction of, or deletion of your personal data held by the Service Provider. To exercise these rights, or to withdraw consent where processing is based on consent, contact the Service Provider at info@increasinglabs.com/.
 
 **Your California privacy rights (CCPA/CPRA)**
 
-If you are a California resident, you have the right to know what personal information is collected, the right to delete personal information, the right to opt out of the sale or sharing of personal information, and the right to non-discrimination for exercising these rights. To exercise your CCPA/CPRA rights, contact the Service Provider at hello@increasinglabs.com.
+If you are a California resident, you have the right to know what personal information is collected, the right to delete personal information, the right to opt out of the sale or sharing of personal information, and the right to non-discrimination for exercising these rights. To exercise your CCPA/CPRA rights, contact the Service Provider at info@increasinglabs.com/.
 
 The Service Provider may use the information you provide to send important information, required notices, and, where permitted by law, marketing communications.
 
@@ -44,7 +44,6 @@ Data protection laws in other countries may differ from those in your jurisdicti
 Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
 
 *   [Google Play Services](https://www.google.com/policies/privacy/)
-*   [AdMob](https://policies.google.com/technologies/partner-sites)
 *   [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
 *   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
 
@@ -58,7 +57,7 @@ The Service Provider may disclose User Provided and Automatically Collected Info
 
 You can stop further collection of information from your mobile device by uninstalling the Application. Uninstalling will stop the Application from collecting data from your device, but it does not automatically delete information that has already been transmitted to the Service Provider or to third parties.
 
-To request deletion of your personal data, to withdraw consent, or to exercise any of your rights, contact the Service Provider at hello@increasinglabs.com.
+To request deletion of your personal data, to withdraw consent, or to exercise any of your rights, contact the Service Provider at info@increasinglabs.com/.
 
 **Data Retention Policy**
 
@@ -69,13 +68,13 @@ The Service Provider retains personal data based on its necessity for the stated
 *   Aggregated and Anonymized Data: Retained indefinitely as it no longer identifies you
 *   Data required for legal compliance: Retained as long as required by applicable law
 
-You may request deletion of your personal data, subject to any legal obligation to retain it. If you want the Service Provider to delete User Provided Data submitted through the Application, please contact them at hello@increasinglabs.com. Please note that some User Provided Data may be required for the Application to function properly.
+You may request deletion of your personal data, subject to any legal obligation to retain it. If you want the Service Provider to delete User Provided Data submitted through the Application, please contact them at info@increasinglabs.com/. Please note that some User Provided Data may be required for the Application to function properly.
 
 **Children**
 
-The Application is not intended for children under 12 years of age, or such higher age as required by applicable law. The Service Provider does not knowingly solicit data from children or market the Application to them.
+The Application is not intended for children under 16 years of age, or such higher age as required by applicable law. The Service Provider does not knowingly solicit data from children or market the Application to them.
 
-Where parental or guardian consent is required under applicable law, the Application is not intended for use without that consent. The Service Provider does not knowingly collect personally identifiable information from children under 12 years of age in violation of applicable law. In the event the Service Provider discovers that a child has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided the Service Provider with personal information, please contact the Service Provider (hello@increasinglabs.com) so that they will be able to take the necessary actions.
+Where parental or guardian consent is required under applicable law, the Application is not intended for use without that consent. The Service Provider does not knowingly collect personally identifiable information from children under 16 years of age in violation of applicable law. In the event the Service Provider discovers that a child has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided the Service Provider with personal information, please contact the Service Provider (info@increasinglabs.com/) so that they will be able to take the necessary actions.
 
 **Security**
 
@@ -89,9 +88,9 @@ If a data breach occurs that affects your personal data, the Service Provider wi
 
 The Service Provider may update this Privacy Policy from time to time. The Service Provider will notify you of material changes by posting the updated Privacy Policy with an effective date. Where required by law, the Service Provider will seek your consent to material changes before they take effect.
 
-Previous versions of this Privacy Policy will be maintained and made available upon request by contacting the Service Provider at hello@increasinglabs.com.
+Previous versions of this Privacy Policy will be maintained and made available upon request by contacting the Service Provider at info@increasinglabs.com/.
 
-This privacy policy is effective as of 2026-08-05
+This privacy policy is effective as of 2026-09-03
 
 **Your Consent**
 
@@ -99,7 +98,7 @@ Where processing is based on consent, you provide that consent by affirmatively 
 
 **Contact Us**
 
-If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at hello@increasinglabs.com.
+If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at info@increasinglabs.com/.
 
 * * *
 
